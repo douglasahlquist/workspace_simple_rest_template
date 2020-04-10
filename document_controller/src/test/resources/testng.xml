@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Component Tests" verbose="2" annotations="JDK">
+
+	<test name="utils-tests" preserve-order="true">
+		<classes>
+			<!-- <class name="" /> -->
+		</classes>
+	</test>
+
+	<test name="dto-tests" preserve-order="true">
+		<classes>
+			<!-- <class name="" /> -->
+		</classes>
+	</test>
+<!-- 	<test name="controller-tests" preserve-order="true"> -->
+<!-- 		<classes> -->
+<!-- 			<class -->
+<!-- 				name="test.ahlquist.document.controller.DocumentControllerHappyPathTests" /> -->
+<!-- 				<class -->
+<!-- 				name="test.ahlquist.document.controller.DocumentControllerErrorTests" /> -->
+<!-- 		</classes> -->
+<!-- 	</test> -->
+</suite>
